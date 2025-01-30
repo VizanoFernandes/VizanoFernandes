@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there👋 iam Vizano Fernandes!!
 
 <!--
 **VizanoFernandes/VizanoFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=vizanofernandes&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="vizanofernandes's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=VizanoFernandes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="VizanoFernandes's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VizanoFernandes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="VizanoFernandes's GitHub Stats" />
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
