@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,pycharm,mysql,php,vscode,visualstudio,ps,blender,robloxstudio,github,replit,linkedin,instagram,notion"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,pycharm,mysql,php,vscode,visualstudio,ps,blender,robloxstudio,replit"/>
   </a>
 </p>
