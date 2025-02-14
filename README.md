@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=VizanoFernandes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="VizanoFernandes's GitHub Stats" />
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VizanoFernandes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="VizanoFernandes's GitHub Stats" />
+
+
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,pycharm,mysql,php,vscode,visualstudio,ps,blender,robloxstudio,replit"/>
   </a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VizanoFernandes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="VizanoFernandes's GitHub Stats" />
 
 
 
