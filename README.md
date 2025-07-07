@@ -1,4 +1,4 @@
-## Hey there👋 Iam Vizano Fernandes!
+## Hey amigos👋 Iam Vizano Fernandes!
 
 <!--
 **VizanoFernandes/VizanoFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
